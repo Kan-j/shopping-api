@@ -370,7 +370,7 @@ app.use(cors({
 -----
 **Testing**
 
-You can test the API endpoints using tools like **Postman** or **Insomnia**. The Postman collection for this API is available [here](https://documenter.getpostman.com/view/28541498/2sAYJ1khqR).
+You can test the API endpoints using tools like **Postman** or **Insomnia**. The Postman collection for this API is available [here](https://documenter.getpostman.com/view/28541498/2sAYJ1mNGV).
 
 -----
 **License**
